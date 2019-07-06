@@ -1,0 +1,10 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    for (; ;) {
+      Console.WriteLine("Hey! I am Trapped!");
+      // DO NOT RUN THIS IT WILL CRASH THE PAGE!!!
+    }
+  }
+}
